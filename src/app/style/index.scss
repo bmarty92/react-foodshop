@@ -9,6 +9,13 @@
 body {
   margin: 20px 0;
 }
+
+.spinner {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-content: center;
+}
 /*************************Home page *****************/
 
 .App-home {
@@ -51,6 +58,7 @@ body {
       font-style: italic;
     }
   }
+
 }
 
 /**********************Navbar *****************************/
